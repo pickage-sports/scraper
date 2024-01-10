@@ -1,1 +1,1 @@
-# scraper
+# scrape NBA statistics
